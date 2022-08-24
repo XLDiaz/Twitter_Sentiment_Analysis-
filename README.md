@@ -7,3 +7,34 @@ Entonces, nuestra tarea aquí es clasificar los tweets racistas y sexistas de ot
 Con el conjunto de datos de twitter dado que consiste en archivos train.csv y test.csv donde tenemos 31962 tweets etiquetados y 17191 tweets sin etiquetar donde entrenamos y validamos en el archivo train.csv y luego probamos nuestro mejor modelo posible en el archivo test.csv.
 
 El archivo de imagen presente en este repositorio se utiliza para superponer el logotipo de Twitter en la nube de palabras generada.
+
+faef
+sefwer
+gwer
+fwaera
+fwer
+fer
+gfer
+gerw
+gewr
+gwer
+gwe
+rgw
+ergwer
+gwe
+rgwe
+rgw
+ergw
+erg
+erg
+er
+gwer
+gwer
+gwe
+rgw
+erg
+werg
+werg
+we
+ger
+g
