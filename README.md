@@ -1,14 +1,23 @@
-#Twitter_Sentiment_Analysis
+# Twitter_Sentiment_Analysis
 
-El acoso cibernético y el discurso de odio han sido una amenaza durante bastante tiempo, por lo que nuestro objetivo para esta tarea es detectar tweets asociados con sentimientos negativos.
-A partir de este conjunto de datos, clasificamos un tuit como discurso de odio si tiene tuits racistas o sexistas asociados.
 
-Entonces, nuestra tarea aquí es clasificar los tweets racistas y sexistas de otros tweets y filtrarlos.
-Con el conjunto de datos de twitter dado que consiste en archivos train.csv y test.csv donde tenemos 31962 tweets etiquetados y 17191 tweets sin etiquetar donde entrenamos y validamos en el archivo train.csv y luego probamos nuestro mejor modelo posible en el archivo test.csv.
+![image](https://user-images.githubusercontent.com/109623726/188723207-2d50c07c-c090-497a-bdcd-b5481672faeb.png)
 
-El archivo de imagen presente en este repositorio se utiliza para superponer el logotipo de Twitter en la nube de palabras generada.
 
-faef
-sefwer
-gwger
-g
+
+![image](https://user-images.githubusercontent.com/109623726/188718876-76526726-7409-436d-a88b-ad5901b5a72a.png)
+
+
+![image](https://user-images.githubusercontent.com/109623726/188719487-de575f18-fc4d-44be-8e27-0b24b8ca6f80.png)
+
+
+![image](https://user-images.githubusercontent.com/109623726/188719700-bb9b89e2-9a60-4c80-b2f3-bb7203ce30cb.png)
+
+
+![image](https://user-images.githubusercontent.com/109623726/188719973-d108c753-8d7f-437a-a1f2-ca56cda3c3fa.png)
+
+
+![Sin título](https://user-images.githubusercontent.com/109623726/188721476-8ad6f0f3-330c-4a1d-a3f6-2ab13397ea62.png)
+
+
+![Sin título](https://user-images.githubusercontent.com/109623726/188722805-9489d42f-d367-415f-827a-137f19971998.png)
